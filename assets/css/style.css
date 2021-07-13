@@ -505,7 +505,7 @@ header{
     margin: 0 auto;
     margin-bottom: 30px;
 }
-.scoialinks {
+.socialinks {
     list-style: none;
     text-align: center;
     padding: 0;
@@ -540,10 +540,10 @@ header{
 	background-image: url(../images/wordpress.png);
 }
 .github{
-	background-image: url(../images/github.png);
+	background-image: url(../images/icons8-octocat.png);
 }
 .stack-overflow{
-	background-image: url(../images/stackoverflow);
+	background-image: url(../images/icons8-stack-overflow.png);
 }
 
 
