@@ -282,7 +282,7 @@ header{
 }
 
 .port figcaption {
-	position: absolute;
+	position:absolute;
 	top: 0;
 	left: 0;
 	padding: 20px;
@@ -307,6 +307,64 @@ header{
 	color: #fff;
 }
 
+   
+.e-z-Budget {
+	background-image: url('./assets/images/projects/E-Z-Budget/0.jpg');
+	height: 350px;
+	margin-bottom: 50px;
+	cursor: pointer;
+	margin-right: 50px;
+	margin-left: 75px;
+}
+	.REFRAIN {
+		background-image: url('./assets/images/projects/RefRain/1.png');
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  } 
+	  
+	  .run-buddy {
+		background-image: url("./assets/images/projects/Run-Buddy/2.jpg");
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  
+	  .Horiseon {
+		background-image: url("./assets/images/projects/Horiseon/3.jpg");
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  
+	  .weather-dashboard {
+		background-image: url("./assets/images/port5.jpg");
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  .currenseed {
+		background-image: url("./assets/images/port6.jpg");
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }  
+  
 .cs-style-3 figure {
 	overflow: hidden;
 }
