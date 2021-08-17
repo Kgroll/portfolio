@@ -37,14 +37,17 @@ html, body {
 
 body {
 	font-family: 'Lato', sans-serif;
+	background-color: #bfbebe;
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Dosis', sans-serif;
 }
 a {
-	color: #e66f69;
+	color: #164375;
+	font-size: x-large;
 	transition: 0.4s ease all;
 	outline: none;
+	align-content: center;
 }
 a:hover,a:active,a:focus{
 	text-decoration: none;
@@ -282,7 +285,7 @@ header{
 }
 
 .port figcaption {
-	position: absolute;
+	position:absolute;
 	top: 0;
 	left: 0;
 	padding: 20px;
@@ -307,6 +310,65 @@ header{
 	color: #fff;
 }
 
+   
+.e-z-Budget {
+	/*background-image: url('./assets/images/projects/E-Z-Budget/0.jpg');*/
+	height: 350px;
+	margin-bottom: 50px;
+	cursor: pointer;
+	margin-right: 50px;
+	margin-left: 75px;
+	width: 350px;
+}
+	.REFRAIN {
+		/*background-image: url('./assets/images/projects/RefRain/1.png');*/
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  } 
+	  
+	  .run-buddy {
+		/*background-image: url("./assets/images/projects/Run-Buddy/2.jpg");*/
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  
+	  .Horiseon {
+		/*background-image: url("./assets/images/projects/Horiseon/3.jpg");*/
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  
+	  .weather-dashboard {
+		/*background-image: url("./assets/images/port5.jpg");*/
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }
+	  .currenseed {
+		/*background-image: url("./assets/images/port6.jpg");*/
+		width: 350px;
+		height: 350px;
+		margin-bottom: 50px;
+		cursor: pointer;
+		margin-right: 50px;
+		margin-left: 75px;
+	  }  
+  
 .cs-style-3 figure {
 	overflow: hidden;
 }
@@ -505,7 +567,7 @@ header{
     margin: 0 auto;
     margin-bottom: 30px;
 }
-.scoialinks {
+.socialinks {
     list-style: none;
     text-align: center;
     padding: 0;
@@ -538,6 +600,12 @@ header{
 }
 .wordpress{
 	background-image: url(../images/wordpress.png);
+}
+.github{
+	background-image: url(../images/icons8-octocat.png);
+}
+.stack-overflow{
+	background-image: url(../images/icons8-stack-overflow.png);
 }
 
 
