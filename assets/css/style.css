@@ -37,6 +37,7 @@ html, body {
 
 body {
 	font-family: 'Lato', sans-serif;
+	background-color: #bfbebe;
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Dosis', sans-serif;
@@ -311,15 +312,16 @@ header{
 
    
 .e-z-Budget {
-	background-image: url('./assets/images/projects/E-Z-Budget/0.jpg');
+	/*background-image: url('./assets/images/projects/E-Z-Budget/0.jpg');*/
 	height: 350px;
 	margin-bottom: 50px;
 	cursor: pointer;
 	margin-right: 50px;
 	margin-left: 75px;
+	width: 350px;
 }
 	.REFRAIN {
-		background-image: url('./assets/images/projects/RefRain/1.png');
+		/*background-image: url('./assets/images/projects/RefRain/1.png');*/
 		width: 350px;
 		height: 350px;
 		margin-bottom: 50px;
@@ -329,7 +331,7 @@ header{
 	  } 
 	  
 	  .run-buddy {
-		background-image: url("./assets/images/projects/Run-Buddy/2.jpg");
+		/*background-image: url("./assets/images/projects/Run-Buddy/2.jpg");*/
 		width: 350px;
 		height: 350px;
 		margin-bottom: 50px;
@@ -339,7 +341,7 @@ header{
 	  }
 	  
 	  .Horiseon {
-		background-image: url("./assets/images/projects/Horiseon/3.jpg");
+		/*background-image: url("./assets/images/projects/Horiseon/3.jpg");*/
 		width: 350px;
 		height: 350px;
 		margin-bottom: 50px;
@@ -349,7 +351,7 @@ header{
 	  }
 	  
 	  .weather-dashboard {
-		background-image: url("./assets/images/port5.jpg");
+		/*background-image: url("./assets/images/port5.jpg");*/
 		width: 350px;
 		height: 350px;
 		margin-bottom: 50px;
@@ -358,7 +360,7 @@ header{
 		margin-left: 75px;
 	  }
 	  .currenseed {
-		background-image: url("./assets/images/port6.jpg");
+		/*background-image: url("./assets/images/port6.jpg");*/
 		width: 350px;
 		height: 350px;
 		margin-bottom: 50px;
